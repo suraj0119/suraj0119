@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <br>Hi, I’m Suraj Kambale! 👋 I have a B.Tech in Computer Science from Batu University 🎓 and am currently mastering MERN Full Stack development at Masai School 💻. My journey in tech is thrilling, and I've developed several projects that highlight my passion for dynamic web applications 🚀. At Masai, I’ve gained hands-on experience with MongoDB, Express.js, React, and Node.js 🌐. These projects have sharpened my skills and emphasized clean code, problem-solving, and teamwork 🤝. I’m always eager to learn and take on new challenges 🌟. Explore my repos and let’s connect for any opportunities or collaborations! 💬<br><br>
+      <br>Hi, I’m Suraj Kambale! 👋 I have a B.Tech in Computer Science from Batu University 🎓 and am currently mastering MERN Full Stack development at Masai School 💻. My journey in tech is thrilling, and I've developed several projects that highlight my passion for dynamic web applications 🚀. At Masai, I’ve gained hands-on experience with MongoDB, Express.js, React, and Node.js 🌐. These projects have sharpened my skills and emphasized clean code, problem-solving, and teamwork 🤝. I’m always eager to learn and take on new challenges 🌟. Explore my repos, check out my <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a>, and let’s connect for any opportunities or collaborations! 💬<br><br>
     </td>
     <td>
       <img src="https://stormystudio.com/wp-content/uploads/2023/02/Animation-for-business-rotating-character-desk-scene.gif" alt="Animation" width="400"/>
@@ -48,7 +48,8 @@
   </tr>
 </table>
 
----
-[![](https://visitcount.itsvg.in/api?id=suraj0119&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=suraj0119&icon=5&color=6)](https://visitcount.itsvg.in)
