@@ -2,7 +2,12 @@
 <table>
   <tr>
     <td>
-      <br>Hi, I’m Suraj Kambale! 👋 I have a B.Tech in Computer Science from Batu University 🎓 and am currently mastering MERN Full Stack development at Masai School 💻. My journey in tech is thrilling, and I've developed several projects that highlight my passion for dynamic web applications 🚀. At Masai, I’ve gained hands-on experience with MongoDB, Express.js, React, and Node.js 🌐. These projects have sharpened my skills and emphasized clean code, problem-solving, and teamwork 🤝. I’m always eager to learn and take on new challenges 🌟. Explore my repos, check out my <a href="https://suraj0119.github.io/" target="_blank">Portfolio</a>, and let’s connect for any opportunities or collaborations! 💬<br><br>
+      <br>Hi, I’m Suraj Kamble! 👋 A Frontend / React Developer with a B.Tech in Computer Science from BATU University 🎓 and 1.2 years of professional experience at WeDoGood Ventures. I specialize in building modern, responsive web applications using React, Next.js, JavaScript, HTML, and CSS, with a good understanding of Node.js, Express, MongoDB, and SQL 💻.
+
+I’ve completed Full-Stack Web Development training at Masai School, where I gained strong hands-on experience and built multiple real-world projects 🚀. I’m passionate about clean code, performance optimization, and creating user-friendly experiences 🌐.
+
+Always eager to learn, collaborate, and take on new challenges 🌟.
+Explore my work, visit my <a href="https://suraj-kamble-portfolio.netlify.app/" target="_blank">Portfolio</a>, and let’s connect for exciting opportunities! 🤝💬<br><br>
     </td>
     <td>
       <img src="https://stormystudio.com/wp-content/uploads/2023/02/Animation-for-business-rotating-character-desk-scene.gif" alt="Animation" width="400"/>
